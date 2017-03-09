@@ -15,5 +15,9 @@ Infrared LED curent is limited to ~80mA and setting D3 pin to HIGH for longer ti
 # Schematic
 ![schematic](images/schematic.png)
 
+# Universal PCB layout and wiring
+![pcb-top](images/pcb-top.png)
+![pcb-bottom](images/pcb-bottom.png)
+
 # Applications
 - Virtual wall for iRobot Roomba
